@@ -1,0 +1,18 @@
+{
+  "id": "upd-30-101",
+  "projectId": "prj-101",
+  "weekNumber": 30,
+  "year": 2026,
+  "updateDate": "2026-07-25",
+  "author": "Marcus Vance",
+  "overallRag": "AMBER",
+  "qualityRag": "AMBER",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Connection leak resolved by enforcing scoped context cancellation. Passed 24-hour continuous soak test at 12,000 RPS without degradation.",
+  "lowlights": "Minor test flakiness observed in automated CI pipeline container orchestration.",
+  "nextSteps": "Stabilize CI test runners and verify zero-downtime database migration scripts.",
+  "kpiProgress": "0 connection leaks detected | 24hr soak test passed at 12k RPS",
+  "completionPercentage": 60,
+  "createdAt": "2026-10-02T09:15:49.211Z"
+}

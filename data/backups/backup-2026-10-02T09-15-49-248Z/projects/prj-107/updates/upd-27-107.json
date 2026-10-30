@@ -1,0 +1,18 @@
+{
+  "id": "upd-27-107",
+  "projectId": "prj-107",
+  "weekNumber": 27,
+  "year": 2026,
+  "updateDate": "2026-07-05",
+  "author": "Sven Lindqvist",
+  "overallRag": "RED",
+  "qualityRag": "RED",
+  "scheduleRag": "RED",
+  "scopeRag": "AMBER",
+  "highlights": "Completed baseline integration with 3DS Server SDK protocol wrapper.",
+  "lowlights": "Visa sandbox directory server rejected cryptographic signature format; directory server handshake failing 100% of calls.",
+  "nextSteps": "Re-generate X.509 client certificates and align supported TLS cipher suites with Visa requirements.",
+  "kpiProgress": "Blocker: 100% handshake failures in Visa sandbox",
+  "completionPercentage": 35,
+  "createdAt": "2026-10-02T09:15:49.230Z"
+}

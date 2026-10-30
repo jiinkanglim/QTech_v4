@@ -1,0 +1,18 @@
+{
+  "id": "upd-30-103",
+  "projectId": "prj-103",
+  "weekNumber": 30,
+  "year": 2026,
+  "updateDate": "2026-07-26",
+  "author": "David Chen",
+  "overallRag": "RED",
+  "qualityRag": "RED",
+  "scheduleRag": "RED",
+  "scopeRag": "AMBER",
+  "highlights": "Identified root cause of memory corruption in tensor buffer allocation. Temporary restart watchdog implemented.",
+  "lowlights": "Cascading pod OOMKills in Tokyo staging cluster caused 45-minute pipeline outage during simulated load test. Scheduled production rollout delayed by 10 days.",
+  "nextSteps": "Rewrite tensor buffer pooling mechanism using static memory arenas.",
+  "kpiProgress": "Blocker: OOMKill in staging | Schedule slipped 10 days",
+  "completionPercentage": 42,
+  "createdAt": "2026-10-02T09:15:49.221Z"
+}

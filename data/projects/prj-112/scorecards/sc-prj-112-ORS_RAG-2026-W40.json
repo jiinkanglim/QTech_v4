@@ -1,0 +1,109 @@
+{
+  "id": "sc-prj-112-ORS_RAG-2026-W40",
+  "projectId": "prj-112",
+  "templateId": "ORS_RAG",
+  "templateVersion": 1,
+  "periodYear": 2026,
+  "periodWeek": 40,
+  "periodLabel": "Week 40 2026",
+  "assessmentDate": "2026-10-02",
+  "assessor": "ORS Lead",
+  "status": "submitted",
+  "header": {
+    "modelComment": "Updated optimizer notes"
+  },
+  "items": [
+    {
+      "itemId": "ors_team",
+      "categoryId": "process",
+      "value": "G",
+      "remarks": ""
+    },
+    {
+      "itemId": "ors_timeline",
+      "categoryId": "process",
+      "value": "A",
+      "remarks": "Requires minor buffer adjustment"
+    },
+    {
+      "itemId": "ors_efficiency",
+      "categoryId": "process",
+      "value": "G",
+      "remarks": ""
+    },
+    {
+      "itemId": "ors_reporting",
+      "categoryId": "process",
+      "value": "G",
+      "remarks": ""
+    },
+    {
+      "itemId": "ors_puzzle",
+      "categoryId": "content",
+      "value": "G",
+      "remarks": ""
+    },
+    {
+      "itemId": "ors_design",
+      "categoryId": "content",
+      "value": "G",
+      "remarks": ""
+    },
+    {
+      "itemId": "ors_quality",
+      "categoryId": "content",
+      "value": "G",
+      "remarks": ""
+    },
+    {
+      "itemId": "ors_speed",
+      "categoryId": "content",
+      "value": "G",
+      "remarks": ""
+    },
+    {
+      "itemId": "ors_data",
+      "categoryId": "data_quality",
+      "value": "G",
+      "remarks": ""
+    },
+    {
+      "itemId": "ors_interaction",
+      "categoryId": "interaction",
+      "value": "G",
+      "remarks": ""
+    }
+  ],
+  "computed": {
+    "overallRag": "G",
+    "overallValue": 9.5,
+    "overallLabel": "Status G – 9.5/10",
+    "normalizedPct": 95,
+    "categories": {
+      "process": {
+        "value": 2.75,
+        "rag": "G"
+      },
+      "content": {
+        "value": 3,
+        "rag": "G"
+      },
+      "data_quality": {
+        "value": 3,
+        "rag": "G"
+      },
+      "interaction": {
+        "value": 3,
+        "rag": "G"
+      }
+    },
+    "orsPoints": 9.5,
+    "orsApplicable": 10,
+    "scoredItems": 10,
+    "totalItems": 10
+  },
+  "createdAt": "2026-10-30T05:41:29.153Z",
+  "updatedAt": "2026-10-30T06:00:16.960Z",
+  "lastEditedBy": "Editor Name",
+  "submittedAt": "2026-10-30T05:41:29.153Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "upd-27-109",
+  "projectId": "prj-109",
+  "weekNumber": 27,
+  "year": 2026,
+  "updateDate": "2026-07-04",
+  "author": "Taro Tanaka",
+  "overallRag": "AMBER",
+  "qualityRag": "AMBER",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Integrated OFAC and UN global sanctions watchlist feeds. Parser handling 400k records nightly.",
+  "lowlights": "Levenshtein distance string matching taking 650ms per transaction, breaching 100ms SLA.",
+  "nextSteps": "Investigate inverted index and trigram fuzzy matching algorithms.",
+  "kpiProgress": "Watchlist parse: 400k records | Match latency: 650ms (needs optimization)",
+  "completionPercentage": 15,
+  "createdAt": "2026-10-02T09:15:49.235Z"
+}

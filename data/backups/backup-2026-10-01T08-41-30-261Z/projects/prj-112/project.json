@@ -1,0 +1,16 @@
+{
+  "id": "prj-112",
+  "name": "Kubernetes Multi-Cloud Resilience & Chaos Mesh",
+  "code": "OPS-K8S",
+  "product": "MP",
+  "geo": "Global",
+  "owner": "Alex Rivera",
+  "ownerEmail": "alex.r@company.com",
+  "targetDate": "2026-10-20",
+  "completionPercentage": 50,
+  "description": "Automated cross-cloud failover drills using Chaos Mesh between GCP Europe and AWS Frankfurt clusters.",
+  "status": "ACTIVE",
+  "createdAt": "2026-06-18",
+  "projectType": "Optimization",
+  "updatedAt": "2026-10-01T08:07:33.630Z"
+}

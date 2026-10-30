@@ -1,0 +1,18 @@
+{
+  "id": "upd-28-106",
+  "projectId": "prj-106",
+  "weekNumber": 28,
+  "year": 2026,
+  "updateDate": "2026-07-14",
+  "author": "Amara Patel",
+  "overallRag": "AMBER",
+  "qualityRag": "GREEN",
+  "scheduleRag": "AMBER",
+  "scopeRag": "GREEN",
+  "highlights": "Completed draft architecture for OAuth 2.1 PKCE token rotation and refresh token reuse detection.",
+  "lowlights": "Third-party penetration testing vendor queue is 6 weeks long, threatening target release date.",
+  "nextSteps": "Engage alternative security audit firm to guarantee August/September testing window.",
+  "kpiProgress": "Architecture 80% drafted | Sec audit vendor locked",
+  "completionPercentage": 20,
+  "createdAt": "2026-10-02T09:15:49.228Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "sc-prj-112-SWE_MODEL-2026-W40",
+  "projectId": "prj-112",
+  "templateId": "SWE_MODEL",
+  "templateVersion": 1,
+  "periodYear": 2026,
+  "periodWeek": 40,
+  "periodLabel": "Week 40 2026",
+  "assessmentDate": "2026-10-01",
+  "assessor": "Lead SWE",
+  "status": "draft",
+  "header": {},
+  "items": [
+    {
+      "itemId": "server_startup",
+      "categoryId": "general",
+      "value": "G",
+      "remarks": "clean start"
+    },
+    {
+      "itemId": "ood_structure",
+      "categoryId": "ood",
+      "value": "G",
+      "remarks": "clean ood"
+    }
+  ],
+  "computed": {
+    "overallRag": "G",
+    "overallValue": 3,
+    "overallLabel": "GOOD",
+    "normalizedPct": 100,
+    "parts": {
+      "review": 3,
+      "reviewRag": "G",
+      "metrics": null,
+      "metricsRag": null
+    },
+    "categories": {
+      "general": {
+        "value": 3,
+        "rag": "G"
+      },
+      "ood": {
+        "value": 3,
+        "rag": "G"
+      },
+      "logic": {
+        "value": null,
+        "rag": null
+      },
+      "perf": {
+        "value": null,
+        "rag": null
+      },
+      "solution": {
+        "value": null,
+        "rag": null
+      },
+      "ux": {
+        "value": null,
+        "rag": null
+      },
+      "other": {
+        "value": null,
+        "rag": null
+      },
+      "metrics_editor": {
+        "value": null,
+        "rag": null
+      },
+      "metrics_designer": {
+        "value": null,
+        "rag": null
+      }
+    },
+    "scoredItems": 2,
+    "totalItems": 47
+  },
+  "createdAt": "2026-10-30T05:41:29.139Z",
+  "updatedAt": "2026-10-30T06:00:16.959Z",
+  "lastEditedBy": "Lead SWE"
+}

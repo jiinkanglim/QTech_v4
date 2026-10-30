@@ -1,0 +1,18 @@
+{
+  "id": "upd-29-106",
+  "projectId": "prj-106",
+  "weekNumber": 29,
+  "year": 2026,
+  "updateDate": "2026-07-21",
+  "author": "Amara Patel",
+  "overallRag": "AMBER",
+  "qualityRag": "GREEN",
+  "scheduleRag": "AMBER",
+  "scopeRag": "GREEN",
+  "highlights": "Secured certified penetration testing vendor for mid-September. Architecture specification approved by enterprise security architect.",
+  "lowlights": "Resource constraints: 1 junior security engineer out on medical leave.",
+  "nextSteps": "Begin implementation of Redis token family revocation store.",
+  "kpiProgress": "Vendor contract executed | Architecture approved",
+  "completionPercentage": 25,
+  "createdAt": "2026-10-02T09:15:49.229Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "upd-29-101",
+  "projectId": "prj-101",
+  "weekNumber": 29,
+  "year": 2026,
+  "updateDate": "2026-07-18",
+  "author": "Marcus Vance",
+  "overallRag": "RED",
+  "qualityRag": "RED",
+  "scheduleRag": "RED",
+  "scopeRag": "AMBER",
+  "highlights": "Integrated circuit breaker for legacy banking gateways with configurable fallback thresholds.",
+  "lowlights": "PostgreSQL connection pool completely exhausted under 10k RPS synthetic stress test. Uncovered critical goroutine connection leak blocking all staging tests.",
+  "nextSteps": "All hands on deck to refactor database transaction scopes and eliminate goroutine resource leaks.",
+  "kpiProgress": "Blocker: 2 P0 connection leak bugs open | Launch delayed 1 week",
+  "completionPercentage": 52,
+  "createdAt": "2026-10-02T09:15:49.210Z"
+}

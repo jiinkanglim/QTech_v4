@@ -1,0 +1,17 @@
+{
+  "id": "prj-109",
+  "name": "Sanctions Screening & AML Compliance Bot",
+  "code": "ENG-AML",
+  "product": "F&CP",
+  "projectType": "Optimization",
+  "geo": "Global",
+  "owner": "Taro Tanaka",
+  "ownerEmail": "taro.t@company.com",
+  "targetDate": "2026-11-15",
+  "completionPercentage": 40,
+  "category": null,
+  "description": "Automated fuzzy matching pipeline against global OFAC and UN watchlist databases with sub-second hit resolution.",
+  "status": "ACTIVE",
+  "createdAt": "2026-06-25",
+  "updatedAt": "2026-10-01T08:07:33.628Z"
+}

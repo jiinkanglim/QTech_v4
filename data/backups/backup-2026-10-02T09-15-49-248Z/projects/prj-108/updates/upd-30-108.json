@@ -1,0 +1,18 @@
+{
+  "id": "upd-30-108",
+  "projectId": "prj-108",
+  "weekNumber": 30,
+  "year": 2026,
+  "updateDate": "2026-07-27",
+  "author": "Rachel Adams",
+  "overallRag": "AMBER",
+  "qualityRag": "GREEN",
+  "scheduleRag": "AMBER",
+  "scopeRag": "GREEN",
+  "highlights": "Virtualized table rendering 100k items at 60 FPS smoothly.",
+  "lowlights": "PDF statement generation service taking 14 seconds for monthly statements with >10,000 transactions, leading to gateway timeouts.",
+  "nextSteps": "Refactor PDF generation to asynchronous background BullMQ worker queue.",
+  "kpiProgress": "PDF export bottleneck: 14s | Async queue design drafted",
+  "completionPercentage": 55,
+  "createdAt": "2026-10-02T09:15:49.234Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "upd-29-104",
+  "projectId": "prj-104",
+  "weekNumber": 29,
+  "year": 2026,
+  "updateDate": "2026-07-18",
+  "author": "Sarah Jenkins",
+  "overallRag": "AMBER",
+  "qualityRag": "GREEN",
+  "scheduleRag": "AMBER",
+  "scopeRag": "GREEN",
+  "highlights": "Entity cache hit ratio reached 74%. Sub-millisecond response achieved for cached read queries.",
+  "lowlights": "Upstream Order Service squad delayed delivery of their subgraph schema by 1 sprint due to internal reshuffling.",
+  "nextSteps": "Build temporary REST adapter bridge for Order Service endpoints.",
+  "kpiProgress": "Cache hit ratio: 74% | Upstream Order Service delayed",
+  "completionPercentage": 45,
+  "createdAt": "2026-10-02T09:15:49.224Z"
+}

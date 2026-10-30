@@ -1,0 +1,18 @@
+{
+  "id": "upd-30-104",
+  "projectId": "prj-104",
+  "weekNumber": 30,
+  "year": 2026,
+  "updateDate": "2026-07-25",
+  "author": "Sarah Jenkins",
+  "overallRag": "AMBER",
+  "qualityRag": "GREEN",
+  "scheduleRag": "AMBER",
+  "scopeRag": "GREEN",
+  "highlights": "REST adapter bridge enabled Order Service integration. User and Catalog subgraphs completely federated.",
+  "lowlights": "Breaking contract changes detected during schema merge tests; automated CI schema checks blocked deployment.",
+  "nextSteps": "Conduct alignment workshop with Order Service team to finalize non-breaking schema evolution.",
+  "kpiProgress": "2 of 4 Subgraphs federated | Schema conflict blocking CI",
+  "completionPercentage": 50,
+  "createdAt": "2026-10-02T09:15:49.225Z"
+}

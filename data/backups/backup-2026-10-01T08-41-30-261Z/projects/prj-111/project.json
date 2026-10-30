@@ -1,0 +1,16 @@
+{
+  "id": "prj-111",
+  "name": "Developer Portal Open API Sandbox",
+  "code": "DEV-PORT",
+  "product": "DP",
+  "geo": "Global",
+  "owner": "Liam O'Connor",
+  "ownerEmail": "liam.o@company.com",
+  "targetDate": "2026-08-30",
+  "completionPercentage": 88,
+  "description": "Interactive OpenAPI v3 docs with instant mock server environment for third-party developer onboarding.",
+  "status": "ACTIVE",
+  "createdAt": "2026-04-01",
+  "projectType": "Manual",
+  "updatedAt": "2026-10-01T08:07:33.629Z"
+}

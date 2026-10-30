@@ -1,0 +1,17 @@
+{
+  "id": "prj-108",
+  "name": "Merchant Analytics & Settlement Dashboard",
+  "code": "FE-MERCH",
+  "product": "YP",
+  "projectType": "Manual",
+  "geo": "NAM",
+  "owner": "Rachel Adams",
+  "ownerEmail": "rachel.a@company.com",
+  "targetDate": "2026-09-10",
+  "completionPercentage": 60,
+  "category": null,
+  "description": "Next.js merchant portal enabling real-time payout reconciliation and custom dispute management workflows.",
+  "status": "ACTIVE",
+  "createdAt": "2026-06-12",
+  "updatedAt": "2026-10-01T08:07:33.627Z"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix QTech_v3",
+  "description": "Track team progress, monitor project KPIs, list sortable weekly updates with RAG status indicators, manage project setup, and submit weekly updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

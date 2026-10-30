@@ -1,0 +1,18 @@
+{
+  "id": "upd-29-107",
+  "projectId": "prj-107",
+  "weekNumber": 29,
+  "year": 2026,
+  "updateDate": "2026-07-19",
+  "author": "Sven Lindqvist",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Challenge iframe bridge rewritten. Verified on iOS Safari, Chrome Android, and desktop browsers without timeouts.",
+  "lowlights": "None.",
+  "nextSteps": "Execute high-volume stress testing in Mastercard sandbox.",
+  "kpiProgress": "Zero challenge timeouts across 500 test transactions",
+  "completionPercentage": 60,
+  "createdAt": "2026-10-02T09:15:49.231Z"
+}

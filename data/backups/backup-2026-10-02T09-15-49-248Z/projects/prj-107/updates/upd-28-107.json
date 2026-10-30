@@ -1,0 +1,18 @@
+{
+  "id": "upd-28-107",
+  "projectId": "prj-107",
+  "weekNumber": 28,
+  "year": 2026,
+  "updateDate": "2026-07-12",
+  "author": "Sven Lindqvist",
+  "overallRag": "AMBER",
+  "qualityRag": "AMBER",
+  "scheduleRag": "AMBER",
+  "scopeRag": "GREEN",
+  "highlights": "X.509 certificate format corrected. Visa test directory server handshake successful. Mastercard sandbox setup initiated.",
+  "lowlights": "Timeout issues observed during challenge authentication screens on older mobile web browsers.",
+  "nextSteps": "Optimize challenge iframe communication bridge using PostMessage API.",
+  "kpiProgress": "Visa handshake: 100% success | Challenge timeouts under fix",
+  "completionPercentage": 48,
+  "createdAt": "2026-10-02T09:15:49.230Z"
+}

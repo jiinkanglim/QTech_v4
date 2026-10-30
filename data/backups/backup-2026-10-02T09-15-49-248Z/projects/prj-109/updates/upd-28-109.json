@@ -1,0 +1,18 @@
+{
+  "id": "upd-28-109",
+  "projectId": "prj-109",
+  "weekNumber": 28,
+  "year": 2026,
+  "updateDate": "2026-07-11",
+  "author": "Taro Tanaka",
+  "overallRag": "AMBER",
+  "qualityRag": "GREEN",
+  "scheduleRag": "AMBER",
+  "scopeRag": "GREEN",
+  "highlights": "Switched to PostgreSQL pg_trgm and custom inverted index; lookup time decreased from 650ms to 45ms.",
+  "lowlights": "False positive matches on common phonetic aliases in Southeast Asian languages.",
+  "nextSteps": "Implement secondary phonetic soundex and metaphone weighting.",
+  "kpiProgress": "Match latency: 45ms (target achieved) | Tuning false positives",
+  "completionPercentage": 24,
+  "createdAt": "2026-10-02T09:15:49.236Z"
+}

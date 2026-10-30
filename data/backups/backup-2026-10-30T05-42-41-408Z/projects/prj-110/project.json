@@ -1,0 +1,17 @@
+{
+  "id": "prj-110",
+  "name": "Cross-Border FX Clearing & Multi-Currency Engine",
+  "code": "SVC-FX",
+  "product": "CP",
+  "projectType": "Manual",
+  "geo": "APAC",
+  "owner": "Priya Sharma",
+  "ownerEmail": "priya.s@company.com",
+  "targetDate": "2026-12-10",
+  "completionPercentage": 25,
+  "category": null,
+  "description": "Dynamic currency conversion (DCC) microservice for real-time forex rate lockouts across APAC payment rails.",
+  "status": "ACTIVE",
+  "createdAt": "2026-07-10",
+  "updatedAt": "2026-10-01T08:07:33.629Z"
+}

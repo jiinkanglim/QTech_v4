@@ -1,0 +1,16 @@
+{
+  "id": "prj-101",
+  "name": "Payment Processing Microservice V2",
+  "code": "SVC-PAY",
+  "product": "CP",
+  "geo": "EMEA",
+  "owner": "Marcus Vance",
+  "ownerEmail": "marcus.vance@company.com",
+  "targetDate": "2026-09-30",
+  "completionPercentage": 68,
+  "description": "Refactoring EMEA regional payment orchestrator into idempotent Go microservices with zero-downtime DB migration.",
+  "status": "ACTIVE",
+  "createdAt": "2026-05-01",
+  "projectType": "Manual",
+  "updatedAt": "2026-10-01T08:07:33.621Z"
+}

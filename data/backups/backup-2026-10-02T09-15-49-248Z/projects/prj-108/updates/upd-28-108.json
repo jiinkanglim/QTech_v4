@@ -1,0 +1,18 @@
+{
+  "id": "upd-28-108",
+  "projectId": "prj-108",
+  "weekNumber": 28,
+  "year": 2026,
+  "updateDate": "2026-07-13",
+  "author": "Rachel Adams",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Settlement calculation engine passing 100% of accounting accuracy test fixtures across 1M synthetic records.",
+  "lowlights": "None.",
+  "nextSteps": "Build UI dashboard for finance operations team.",
+  "kpiProgress": "Accounting balance: $0.00 discrepancy across 1M records",
+  "completionPercentage": 38,
+  "createdAt": "2026-10-02T09:15:49.233Z"
+}

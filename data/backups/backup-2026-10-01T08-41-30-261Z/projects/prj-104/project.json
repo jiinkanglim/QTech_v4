@@ -1,0 +1,16 @@
+{
+  "id": "prj-104",
+  "name": "GraphQL Federated Gateway Mesh",
+  "code": "API-GW",
+  "product": "MP",
+  "geo": "Global",
+  "owner": "Sarah Jenkins",
+  "ownerEmail": "sarah.jenkins@company.com",
+  "targetDate": "2026-10-15",
+  "completionPercentage": 55,
+  "description": "Consolidating legacy REST endpoints into unified global GraphQL Apollo Federation with sub-second caching.",
+  "status": "ACTIVE",
+  "createdAt": "2026-06-10",
+  "projectType": "Optimization",
+  "updatedAt": "2026-10-01T08:07:33.623Z"
+}

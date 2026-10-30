@@ -1,0 +1,28 @@
+{
+  "products": [
+    "CP",
+    "DP",
+    "F&CP",
+    "MP",
+    "SP",
+    "TP",
+    "WP",
+    "YP"
+  ],
+  "geos": [
+    "Global",
+    "EMEA",
+    "NAM",
+    "APAC",
+    "LATAM"
+  ],
+  "projectTypes": [
+    "Manual",
+    "Optimization"
+  ],
+  "scoringSettings": {
+    "sweAmberFrom": 1.5,
+    "sweGreenFrom": 2.5,
+    "defaultCadence": "weekly"
+  }
+}

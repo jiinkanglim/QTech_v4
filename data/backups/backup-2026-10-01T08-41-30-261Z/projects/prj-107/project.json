@@ -1,0 +1,16 @@
+{
+  "id": "prj-107",
+  "name": "3D Secure 2.2 Payment Authentication Bridge",
+  "code": "SVC-3DS",
+  "product": "WP",
+  "geo": "EMEA",
+  "owner": "Sven Lindqvist",
+  "ownerEmail": "sven.l@company.com",
+  "targetDate": "2026-10-01",
+  "completionPercentage": 75,
+  "description": "Mandatory PSD2 compliance upgrade for friction-free EMV 3DS merchant authentication across European banks.",
+  "status": "ACTIVE",
+  "createdAt": "2026-05-20",
+  "projectType": "Optimization",
+  "updatedAt": "2026-10-01T08:07:33.626Z"
+}

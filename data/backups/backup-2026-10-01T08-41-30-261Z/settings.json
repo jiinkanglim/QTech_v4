@@ -1,0 +1,23 @@
+{
+  "products": [
+    "CP",
+    "DP",
+    "F&CP",
+    "MP",
+    "SP",
+    "TP",
+    "WP",
+    "YP"
+  ],
+  "geos": [
+    "Global",
+    "EMEA",
+    "NAM",
+    "APAC",
+    "LATAM"
+  ],
+  "projectTypes": [
+    "Manual",
+    "Optimization"
+  ]
+}

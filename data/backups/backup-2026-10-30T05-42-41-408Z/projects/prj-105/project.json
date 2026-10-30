@@ -1,0 +1,17 @@
+{
+  "id": "prj-105",
+  "name": "Inventory Sync & ERP Event Bus",
+  "code": "EVT-INV",
+  "product": "SP",
+  "projectType": "Manual",
+  "geo": "LATAM",
+  "owner": "Carlos Mendez",
+  "ownerEmail": "carlos.mendez@company.com",
+  "targetDate": "2026-09-15",
+  "completionPercentage": 90,
+  "category": null,
+  "description": "Kafka event-driven synchronization between SAP ERP and localized LATAM warehouse fulfillment nodes.",
+  "status": "ACTIVE",
+  "createdAt": "2026-07-01",
+  "updatedAt": "2026-10-01T08:07:33.624Z"
+}

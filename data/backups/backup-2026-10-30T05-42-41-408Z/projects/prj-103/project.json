@@ -1,0 +1,17 @@
+{
+  "id": "prj-103",
+  "name": "Real-time Fraud & Anomaly Detection Engine",
+  "code": "ENG-FRD",
+  "product": "F&CP",
+  "projectType": "Optimization",
+  "geo": "APAC",
+  "owner": "David Chen",
+  "ownerEmail": "david.chen@company.com",
+  "targetDate": "2026-08-15",
+  "completionPercentage": 45,
+  "category": null,
+  "description": "Stream processing event pipeline using Flink and statistical models for sub-50ms fraud evaluation in APAC.",
+  "status": "ACTIVE",
+  "createdAt": "2026-06-01",
+  "updatedAt": "2026-10-01T08:07:33.623Z"
+}

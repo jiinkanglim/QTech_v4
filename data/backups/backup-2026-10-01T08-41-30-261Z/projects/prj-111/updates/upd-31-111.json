@@ -1,0 +1,18 @@
+{
+  "id": "upd-31-111",
+  "projectId": "prj-111",
+  "weekNumber": 31,
+  "year": 2026,
+  "updateDate": "2026-08-01",
+  "author": "Liam O'Connor",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Swagger UI and SDK auto-generator for TypeScript and Python published to staging portal.",
+  "lowlights": "SDK generation for Go language requires minor custom template tweaks.",
+  "nextSteps": "Launch external beta developer preview for select partner developers.",
+  "kpiProgress": "Docs auto-generated for 42 APIs",
+  "completionPercentage": 88,
+  "createdAt": "2026-10-01T08:07:33.639Z"
+}

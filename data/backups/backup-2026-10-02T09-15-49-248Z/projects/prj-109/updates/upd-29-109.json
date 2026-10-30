@@ -1,0 +1,18 @@
+{
+  "id": "upd-29-109",
+  "projectId": "prj-109",
+  "weekNumber": 29,
+  "year": 2026,
+  "updateDate": "2026-07-18",
+  "author": "Taro Tanaka",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Custom Double-Metaphone filter reduced false positive rate by 58% while maintaining 100% recall on true sanctions hits.",
+  "lowlights": "None.",
+  "nextSteps": "Deploy staging API in Tokyo cluster for APAC integration testing.",
+  "kpiProgress": "False positives reduced 58% | 100% true recall maintained",
+  "completionPercentage": 32,
+  "createdAt": "2026-10-02T09:15:49.236Z"
+}

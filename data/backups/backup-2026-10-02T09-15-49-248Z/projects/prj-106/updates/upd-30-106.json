@@ -1,0 +1,18 @@
+{
+  "id": "upd-30-106",
+  "projectId": "prj-106",
+  "weekNumber": 30,
+  "year": 2026,
+  "updateDate": "2026-07-28",
+  "author": "Amara Patel",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Completed initial architecture design for OAuth 2.1 PKCE token rotation. Security architect sign-off received.",
+  "lowlights": "Awaiting third-party penetration test vendor availability confirmation for September.",
+  "nextSteps": "Implement refresh token family rotation store in Redis Cluster.",
+  "kpiProgress": "Architecture Spec 100% approved",
+  "completionPercentage": 30,
+  "createdAt": "2026-10-02T09:15:49.229Z"
+}

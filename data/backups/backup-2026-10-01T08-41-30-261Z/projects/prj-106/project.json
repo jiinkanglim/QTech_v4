@@ -1,0 +1,16 @@
+{
+  "id": "prj-106",
+  "name": "Zero-Trust Identity & OAuth Refresh Module",
+  "code": "SEC-AUTH",
+  "product": "TP",
+  "geo": "EMEA",
+  "owner": "Amara Patel",
+  "ownerEmail": "amara.patel@company.com",
+  "targetDate": "2026-11-30",
+  "completionPercentage": 30,
+  "description": "Upgrading token rotation mechanisms to satisfy GDPR and EMEA regulatory OAuth 2.1 zero-trust mandates.",
+  "status": "ACTIVE",
+  "createdAt": "2026-07-05",
+  "projectType": "Manual",
+  "updatedAt": "2026-10-01T08:07:33.625Z"
+}

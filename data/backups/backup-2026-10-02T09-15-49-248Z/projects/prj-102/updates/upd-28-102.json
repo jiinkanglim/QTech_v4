@@ -1,0 +1,18 @@
+{
+  "id": "upd-28-102",
+  "projectId": "prj-102",
+  "weekNumber": 28,
+  "year": 2026,
+  "updateDate": "2026-07-10",
+  "author": "Elena Rostova",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Delivered iOS CocoaPods and Swift Package Manager (SPM) packages. Initial checkout latency dropped from 3.2s to 640ms.",
+  "lowlights": "Slight delay in Google Play Console internal test track approval resolved within 24 hours.",
+  "nextSteps": "Prepare TestFlight external beta distribution v2.2.",
+  "kpiProgress": "Checkout latency: 640ms (exceeded <1s SLA)",
+  "completionPercentage": 58,
+  "createdAt": "2026-10-02T09:15:49.214Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "prj-cascade-test",
+  "name": "Cascade Test Project",
+  "code": "CAS-001",
+  "product": "Quintiq Supply Chain",
+  "projectType": "Automated",
+  "geo": "Global",
+  "owner": "Tester",
+  "targetDate": "2026-12-31",
+  "completionPercentage": 50,
+  "description": "Testing cascade delete and migration",
+  "status": "Active",
+  "createdAt": "2026-10-30T05:42:41.374Z",
+  "updatedAt": "2026-10-30T05:42:41.374Z"
+}

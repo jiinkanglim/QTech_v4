@@ -1,0 +1,18 @@
+{
+  "id": "upd-27-105",
+  "projectId": "prj-105",
+  "weekNumber": 27,
+  "year": 2026,
+  "updateDate": "2026-07-03",
+  "author": "Carlos Mendez",
+  "overallRag": "AMBER",
+  "qualityRag": "AMBER",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Configured Kafka MirrorMaker between Sao Paulo and Bogota nodes. Initial sync replication established.",
+  "lowlights": "Network bandwidth bottlenecks during bulk daily inventory transfers caused sync lag of up to 8 minutes.",
+  "nextSteps": "Implement Brotli compression on Kafka message payloads to reduce network bandwidth.",
+  "kpiProgress": "Sync lag: 8 minutes (exceeds 60s target)",
+  "completionPercentage": 60,
+  "createdAt": "2026-10-02T09:15:49.226Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "upd-29-102",
+  "projectId": "prj-102",
+  "weekNumber": 29,
+  "year": 2026,
+  "updateDate": "2026-07-17",
+  "author": "Elena Rostova",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "TestFlight beta deployed to internal QA team. Passed third-party security audit on iOS Secure Enclave and Android Keystore token storage.",
+  "lowlights": "Android emulator biometrics mock flakiness required custom test driver.",
+  "nextSteps": "Run automated device compatibility tests on AWS Device Farm across 50 devices.",
+  "kpiProgress": "Security audit passed | 0 High/Medium vulnerabilities",
+  "completionPercentage": 68,
+  "createdAt": "2026-10-02T09:15:49.215Z"
+}

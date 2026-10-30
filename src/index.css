@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-quintiq-50: #f0f7fb;
+  --color-quintiq-100: #e2f0f8;
+  --color-quintiq-200: #bad9ee;
+  --color-quintiq-300: #8ec0e2;
+  --color-quintiq-400: #4ba0d1;
+  --color-quintiq-500: #1b85bd;
+  --color-quintiq-600: #005386;
+  --color-quintiq-700: #004570;
+  --color-quintiq-800: #003759;
+  --color-quintiq-900: #002c47;
+  --color-quintiq-950: #07192b;
+
+  --color-quintiq-cyan: #0082c3;
+  --color-quintiq-accent: #00a2e8;
+  --color-quintiq-navy: #0b1a2e;
+  --color-quintiq-darkbg: #091421;
+  --color-quintiq-darkcard: #0f2238;
+  --color-quintiq-darkborder: #1b3654;
+}
+
+/* Custom 3DS DELMIA Quintiq aesthetic styling */
+:root {
+  --primary-3ds: #005386;
+  --primary-3ds-hover: #00436d;
+  --accent-cyan: #0082c3;
+  --accent-light: #e8f2f8;
+  --navy-dark: #0b1a2e;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+html.dark body {
+  background-color: #091421;
+  color: #f1f5f9;
+}

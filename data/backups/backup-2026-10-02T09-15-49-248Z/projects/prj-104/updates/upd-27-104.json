@@ -1,0 +1,18 @@
+{
+  "id": "upd-27-104",
+  "projectId": "prj-104",
+  "weekNumber": 27,
+  "year": 2026,
+  "updateDate": "2026-07-04",
+  "author": "Sarah Jenkins",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "Drafted Apollo Federation 2 supergraph schema. Defined shared entity contracts for User, Account, and Catalog subgraphs.",
+  "lowlights": "None.",
+  "nextSteps": "Deploy Apollo Router gateway in global Kubernetes mesh via Helm chart.",
+  "kpiProgress": "Supergraph schema: 100% drafted",
+  "completionPercentage": 30,
+  "createdAt": "2026-10-02T09:15:49.223Z"
+}

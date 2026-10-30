@@ -1,0 +1,18 @@
+{
+  "id": "upd-29-103",
+  "projectId": "prj-103",
+  "weekNumber": 29,
+  "year": 2026,
+  "updateDate": "2026-07-19",
+  "author": "David Chen",
+  "overallRag": "AMBER",
+  "qualityRag": "AMBER",
+  "scheduleRag": "AMBER",
+  "scopeRag": "GREEN",
+  "highlights": "Migrated model runtime to C++ ONNX bindings, cutting CPU utilization by 40% and accelerating inference to 14ms.",
+  "lowlights": "Memory leak still observed in unmanaged C++ memory heap after 6 hours of high throughput testing.",
+  "nextSteps": "Conduct Valgrind memory leak profiling in staging container.",
+  "kpiProgress": "Inference latency: 14ms | Unmanaged heap leak identified",
+  "completionPercentage": 38,
+  "createdAt": "2026-10-02T09:15:49.221Z"
+}

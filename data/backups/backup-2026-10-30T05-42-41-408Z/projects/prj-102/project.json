@@ -1,0 +1,17 @@
+{
+  "id": "prj-102",
+  "name": "Mobile Checkout SDK & Biometrics",
+  "code": "SDK-MOB",
+  "product": "DP",
+  "projectType": "Optimization",
+  "geo": "NAM",
+  "owner": "Elena Rostova",
+  "ownerEmail": "elena.rostova@company.com",
+  "targetDate": "2026-08-25",
+  "completionPercentage": 82,
+  "category": null,
+  "description": "Native iOS & Android SDK overhaul providing 1-click biometric checkout for North American retail partners.",
+  "status": "ACTIVE",
+  "createdAt": "2026-04-15",
+  "updatedAt": "2026-10-01T08:07:33.622Z"
+}

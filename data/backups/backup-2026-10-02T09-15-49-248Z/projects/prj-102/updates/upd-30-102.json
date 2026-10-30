@@ -1,0 +1,18 @@
+{
+  "id": "upd-30-102",
+  "projectId": "prj-102",
+  "weekNumber": 30,
+  "year": 2026,
+  "updateDate": "2026-07-24",
+  "author": "Elena Rostova",
+  "overallRag": "GREEN",
+  "qualityRag": "GREEN",
+  "scheduleRag": "GREEN",
+  "scopeRag": "GREEN",
+  "highlights": "AWS Device Farm suite passed across 45 Android models and 18 iPhone devices with 99.8% pass rate.",
+  "lowlights": "Minor UI styling glitch in dark mode modal checkout sheet on iOS 17.",
+  "nextSteps": "Polish dark mode UI components and deploy beta v2.4 to external merchant testers.",
+  "kpiProgress": "Pass rate: 99.8% across 63 mobile devices",
+  "completionPercentage": 75,
+  "createdAt": "2026-10-02T09:15:49.216Z"
+}
